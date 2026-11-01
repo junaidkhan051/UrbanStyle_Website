@@ -1,0 +1,8 @@
+{
+  "name": "UrbanStyle - Define Your Style",
+  "description": "UrbanStyle is a premium international fashion e-commerce showcase featuring contemporary men's, women's, and kids' collections, designed with editorial elegance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
